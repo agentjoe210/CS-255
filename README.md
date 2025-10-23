@@ -18,3 +18,4 @@ I interpretted the users needs by utilizing a list that I could look back on wit
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
+I approach designing software by taking notes of what the customer desires then plugging it into an object model which I can then use to create the necessary pseudocode. The actual writing of the code gets more challenging because I then have to decide which language to use and then write the code from there. For this specific project it would likely be written in JavaScript since it will be an online webpage but python would be utilized for the backend components. Lastly, I would impliment tools like Git to track changes and facilitate collaboration within my team.
